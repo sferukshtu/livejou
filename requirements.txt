@@ -1,0 +1,5 @@
+transliterate
+bs4
+requests
+pytablewriter
+python-dateutil
